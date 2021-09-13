@@ -1,0 +1,541 @@
+,Question,Structure,Set,variable,value
+1,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P1,Strongly agree
+2,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P1,Strongly agree
+3,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P1,Strongly agree
+4,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P1,Agree
+5,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P1,Agree
+6,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P1,Agree
+7,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P1,Strongly agree
+8,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P1,Strongly agree
+9,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P1,Agree
+10,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P1,Agree
+11,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P1,Neither agree nor disagree
+12,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P1,Neither agree nor disagree
+13, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P1,Extremely
+14, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P1,Extremely
+15, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P1,Extremely
+16, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P1,Moderately
+17, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P1,Neutral
+18, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P1,
+19, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P1,Extremely
+20, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P1,Moderately
+21, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P1,Neutral
+22, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P1,Neutral
+23,Please rate the clarity of each section,Main structure, Core set,P1,Excellent
+24,Please rate the clarity of each section,Contact type, Core set,P1,Excellent
+25,Please rate the clarity of each section,Physical activity, Core set,P1,Excellent
+26,Please rate the clarity of each section,Ball situation, Core set,P1,Excellent
+27,Please rate the clarity of each section,Session detail, Core set,P1,Excellent
+28,Please rate the clarity of each section,Contextual information, Core set,P1,Excellent
+29,Please rate the clarity of each section,Main structure,Additional information,P1,Excellent
+30,Please rate the clarity of each section,Contact type,Additional information,P1,Excellent
+31,Please rate the clarity of each section,Physical activity,Additional information,P1,Excellent
+32,Please rate the clarity of each section,Ball situation,Additional information,P1,Excellent
+33,Please rate the clarity of each section,Session detail,Additional information,P1,Excellent
+34,Please rate the clarity of each section,Contextual information,Additional information,P1,Excellent
+35,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P1,Very easy
+36,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P1,Very easy
+37,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P1,Very easy
+38,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P1,Very easy
+39,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P1,Very easy
+40,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P1,Very easy
+41,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P1,Very easy
+42,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P1,Very easy
+43,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P1,Easy
+44,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P1,Neutral
+45,How difficult would implementing the system in research environment be?,Contact type, Core set,P1,Very easy
+46,How difficult would implementing the system in research environment be?,Physical activity, Core set,P1,Very easy
+47,How difficult would implementing the system in research environment be?,Ball situation, Core set,P1,Very easy
+48,How difficult would implementing the system in research environment be?,Session detail, Core set,P1,Very easy
+49,How difficult would implementing the system in research environment be?,Contextual information, Core set,P1,Very easy
+50,How difficult would implementing the system in research environment be?,Contact type,Additional information,P1,Very easy
+51,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P1,Very easy
+52,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P1,Very easy
+53,How difficult would implementing the system in research environment be?,Session detail,Additional information,P1,Very easy
+54,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P1,Very easy
+55,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P2,Agree
+56,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P2,Agree
+57,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P2,Agree
+58,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P2,Agree
+59,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P2,Agree
+60,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P2,Agree
+61,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P2,Agree
+62,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P2,Agree
+63,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P2,Agree
+64,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P2,Agree
+65,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P2,Agree
+66,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P2,Agree
+67, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P2,Extremely
+68, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P2,Extremely
+69, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P2,Moderately
+70, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P2,Moderately
+71, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P2,Moderately
+72, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P2,Extremely
+73, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P2,Extremely
+74, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P2,Moderately
+75, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P2,Moderately
+76, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P2,Moderately
+77,Please rate the clarity of each section,Main structure, Core set,P2,Very good
+78,Please rate the clarity of each section,Contact type, Core set,P2,Very good
+79,Please rate the clarity of each section,Physical activity, Core set,P2,Very good
+80,Please rate the clarity of each section,Ball situation, Core set,P2,Very good
+81,Please rate the clarity of each section,Session detail, Core set,P2,Very good
+82,Please rate the clarity of each section,Contextual information, Core set,P2,Very good
+83,Please rate the clarity of each section,Main structure,Additional information,P2,Very good
+84,Please rate the clarity of each section,Contact type,Additional information,P2,Very good
+85,Please rate the clarity of each section,Physical activity,Additional information,P2,Very good
+86,Please rate the clarity of each section,Ball situation,Additional information,P2,Very good
+87,Please rate the clarity of each section,Session detail,Additional information,P2,Very good
+88,Please rate the clarity of each section,Contextual information,Additional information,P2,Very good
+89,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P2,Easy
+90,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P2,Easy
+91,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P2,Easy
+92,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P2,Very easy
+93,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P2,Easy
+94,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P2,Easy
+95,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P2,Easy
+96,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P2,Easy
+97,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P2,Very easy
+98,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P2,Easy
+99,How difficult would implementing the system in research environment be?,Contact type, Core set,P2,Easy
+100,How difficult would implementing the system in research environment be?,Physical activity, Core set,P2,Easy
+101,How difficult would implementing the system in research environment be?,Ball situation, Core set,P2,Easy
+102,How difficult would implementing the system in research environment be?,Session detail, Core set,P2,Easy
+103,How difficult would implementing the system in research environment be?,Contextual information, Core set,P2,Easy
+104,How difficult would implementing the system in research environment be?,Contact type,Additional information,P2,Easy
+105,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P2,Easy
+106,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P2,Easy
+107,How difficult would implementing the system in research environment be?,Session detail,Additional information,P2,Easy
+108,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P2,Easy
+109,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P3,Agree
+110,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P3,Agree
+111,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P3,Agree
+112,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P3,Agree
+113,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P3,Agree
+114,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P3,Agree
+115,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P3,
+116,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P3,
+117,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P3,
+118,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P3,
+119,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P3,
+120,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P3,
+121, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P3,Extremely
+122, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P3,Extremely
+123, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P3,Extremely
+124, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P3,Moderately
+125, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P3,Moderately
+126, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P3,
+127, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P3,
+128, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P3,
+129, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P3,
+130, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P3,
+131,Please rate the clarity of each section,Main structure, Core set,P3,Very good
+132,Please rate the clarity of each section,Contact type, Core set,P3,Very good
+133,Please rate the clarity of each section,Physical activity, Core set,P3,Very good
+134,Please rate the clarity of each section,Ball situation, Core set,P3,Very good
+135,Please rate the clarity of each section,Session detail, Core set,P3,Very good
+136,Please rate the clarity of each section,Contextual information, Core set,P3,Very good
+137,Please rate the clarity of each section,Main structure,Additional information,P3,
+138,Please rate the clarity of each section,Contact type,Additional information,P3,
+139,Please rate the clarity of each section,Physical activity,Additional information,P3,
+140,Please rate the clarity of each section,Ball situation,Additional information,P3,
+141,Please rate the clarity of each section,Session detail,Additional information,P3,
+142,Please rate the clarity of each section,Contextual information,Additional information,P3,
+143,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P3,Easy
+144,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P3,Neutral
+145,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P3,Neutral
+146,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P3,Easy
+147,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P3,Difficult
+148,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P3,
+149,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P3,
+150,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P3,
+151,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P3,
+152,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P3,
+153,How difficult would implementing the system in research environment be?,Contact type, Core set,P3,Easy
+154,How difficult would implementing the system in research environment be?,Physical activity, Core set,P3,Easy
+155,How difficult would implementing the system in research environment be?,Ball situation, Core set,P3,Easy
+156,How difficult would implementing the system in research environment be?,Session detail, Core set,P3,Neutral
+157,How difficult would implementing the system in research environment be?,Contextual information, Core set,P3,Neutral
+158,How difficult would implementing the system in research environment be?,Contact type,Additional information,P3,
+159,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P3,
+160,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P3,
+161,How difficult would implementing the system in research environment be?,Session detail,Additional information,P3,
+162,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P3,
+163,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P4,Strongly agree
+164,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P4,Strongly agree
+165,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P4,Strongly agree
+166,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P4,Strongly agree
+167,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P4,Strongly agree
+168,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P4,Strongly agree
+169,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P4,Strongly agree
+170,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P4,Strongly agree
+171,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P4,Strongly agree
+172,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P4,Strongly agree
+173,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P4,Strongly agree
+174,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P4,Strongly agree
+175, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P4,Extremely
+176, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P4,Extremely
+177, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P4,Extremely
+178, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P4,Extremely
+179, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P4,Moderately
+180, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P4,Extremely
+181, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P4,Extremely
+182, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P4,Extremely
+183, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P4,Extremely
+184, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P4,Moderately
+185,Please rate the clarity of each section,Main structure, Core set,P4,Excellent
+186,Please rate the clarity of each section,Contact type, Core set,P4,Excellent
+187,Please rate the clarity of each section,Physical activity, Core set,P4,Excellent
+188,Please rate the clarity of each section,Ball situation, Core set,P4,Very good
+189,Please rate the clarity of each section,Session detail, Core set,P4,Excellent
+190,Please rate the clarity of each section,Contextual information, Core set,P4,Very good
+191,Please rate the clarity of each section,Main structure,Additional information,P4,Excellent
+192,Please rate the clarity of each section,Contact type,Additional information,P4,Excellent
+193,Please rate the clarity of each section,Physical activity,Additional information,P4,Excellent
+194,Please rate the clarity of each section,Ball situation,Additional information,P4,Very good
+195,Please rate the clarity of each section,Session detail,Additional information,P4,Excellent
+196,Please rate the clarity of each section,Contextual information,Additional information,P4,Very good
+197,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P4,Very easy
+198,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P4,Very easy
+199,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P4,Very easy
+200,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P4,Very easy
+201,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P4,Very easy
+202,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P4,Very easy
+203,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P4,Very easy
+204,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P4,Very easy
+205,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P4,Very easy
+206,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P4,Very easy
+207,How difficult would implementing the system in research environment be?,Contact type, Core set,P4,Very easy
+208,How difficult would implementing the system in research environment be?,Physical activity, Core set,P4,Very easy
+209,How difficult would implementing the system in research environment be?,Ball situation, Core set,P4,Very easy
+210,How difficult would implementing the system in research environment be?,Session detail, Core set,P4,Very easy
+211,How difficult would implementing the system in research environment be?,Contextual information, Core set,P4,Very easy
+212,How difficult would implementing the system in research environment be?,Contact type,Additional information,P4,Very easy
+213,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P4,Very easy
+214,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P4,Very easy
+215,How difficult would implementing the system in research environment be?,Session detail,Additional information,P4,Very easy
+216,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P4,Very easy
+217,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P5,Strongly agree
+218,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P5,Strongly agree
+219,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P5,Strongly agree
+220,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P5,Strongly agree
+221,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P5,Neither agree nor disagree
+222,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P5,
+223,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P5,Strongly agree
+224,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P5,Strongly agree
+225,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P5,Strongly agree
+226,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P5,Agree
+227,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P5,Agree
+228,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P5,Neither agree nor disagree
+229, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P5,Extremely
+230, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P5,Extremely
+231, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P5,Neutral
+232, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P5,Moderately
+233, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P5,Neutral
+234, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P5,Extremely
+235, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P5,Extremely
+236, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P5,Extremely
+237, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P5,Moderately
+238, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P5,Neutral
+239,Please rate the clarity of each section,Main structure, Core set,P5,Excellent
+240,Please rate the clarity of each section,Contact type, Core set,P5,Excellent
+241,Please rate the clarity of each section,Physical activity, Core set,P5,Excellent
+242,Please rate the clarity of each section,Ball situation, Core set,P5,Excellent
+243,Please rate the clarity of each section,Session detail, Core set,P5,Very good
+244,Please rate the clarity of each section,Contextual information, Core set,P5,
+245,Please rate the clarity of each section,Main structure,Additional information,P5,Excellent
+246,Please rate the clarity of each section,Contact type,Additional information,P5,Excellent
+247,Please rate the clarity of each section,Physical activity,Additional information,P5,Excellent
+248,Please rate the clarity of each section,Ball situation,Additional information,P5,Good
+249,Please rate the clarity of each section,Session detail,Additional information,P5,Very good
+250,Please rate the clarity of each section,Contextual information,Additional information,P5,Good
+251,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P5,Very easy
+252,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P5,Very easy
+253,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P5,Very easy
+254,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P5,Easy
+255,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P5,
+256,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P5,
+257,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P5,Very easy
+258,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P5,Neutral
+259,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P5,Very easy
+260,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P5,Easy
+261,How difficult would implementing the system in research environment be?,Contact type, Core set,P5,Very easy
+262,How difficult would implementing the system in research environment be?,Physical activity, Core set,P5,Very easy
+263,How difficult would implementing the system in research environment be?,Ball situation, Core set,P5,Easy
+264,How difficult would implementing the system in research environment be?,Session detail, Core set,P5,Easy
+265,How difficult would implementing the system in research environment be?,Contextual information, Core set,P5,
+266,How difficult would implementing the system in research environment be?,Contact type,Additional information,P5,
+267,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P5,Very easy
+268,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P5,Easy
+269,How difficult would implementing the system in research environment be?,Session detail,Additional information,P5,Easy
+270,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P5,Neutral
+271,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P6,Strongly agree
+272,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P6,Strongly agree
+273,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P6,Strongly agree
+274,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P6,Strongly agree
+275,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P6,Strongly agree
+276,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P6,Strongly agree
+277,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P6,
+278,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P6,Agree
+279,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P6,Agree
+280,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P6,Agree
+281,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P6,Neither agree nor disagree
+282,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P6,Agree
+283, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P6,Extremely
+284, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P6,Extremely
+285, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P6,Extremely
+286, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P6,Extremely
+287, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P6,Extremely
+288, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P6,Moderately
+289, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P6,Moderately
+290, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P6,Moderately
+291, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P6,Neutral
+292, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P6,Neutral
+293,Please rate the clarity of each section,Main structure, Core set,P6,Excellent
+294,Please rate the clarity of each section,Contact type, Core set,P6,Excellent
+295,Please rate the clarity of each section,Physical activity, Core set,P6,Excellent
+296,Please rate the clarity of each section,Ball situation, Core set,P6,Excellent
+297,Please rate the clarity of each section,Session detail, Core set,P6,Excellent
+298,Please rate the clarity of each section,Contextual information, Core set,P6,Excellent
+299,Please rate the clarity of each section,Main structure,Additional information,P6,Fair
+300,Please rate the clarity of each section,Contact type,Additional information,P6,Excellent
+301,Please rate the clarity of each section,Physical activity,Additional information,P6,Very good
+302,Please rate the clarity of each section,Ball situation,Additional information,P6,Excellent
+303,Please rate the clarity of each section,Session detail,Additional information,P6,Fair
+304,Please rate the clarity of each section,Contextual information,Additional information,P6,Fair
+305,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P6,Very easy
+306,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P6,Very easy
+307,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P6,Very easy
+308,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P6,Very easy
+309,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P6,Very easy
+310,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P6,Very easy
+311,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P6,Very easy
+312,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P6,Very easy
+313,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P6,Very easy
+314,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P6,Very easy
+315,How difficult would implementing the system in research environment be?,Contact type, Core set,P6,Very easy
+316,How difficult would implementing the system in research environment be?,Physical activity, Core set,P6,Very easy
+317,How difficult would implementing the system in research environment be?,Ball situation, Core set,P6,Very easy
+318,How difficult would implementing the system in research environment be?,Session detail, Core set,P6,Very easy
+319,How difficult would implementing the system in research environment be?,Contextual information, Core set,P6,Very easy
+320,How difficult would implementing the system in research environment be?,Contact type,Additional information,P6,Very easy
+321,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P6,Very easy
+322,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P6,Very easy
+323,How difficult would implementing the system in research environment be?,Session detail,Additional information,P6,Very easy
+324,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P6,Very easy
+325,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P7,Agree
+326,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P7,Agree
+327,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P7,Agree
+328,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P7,Agree
+329,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P7,Agree
+330,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P7,Agree
+331,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P7,Agree
+332,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P7,Agree
+333,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P7,Agree
+334,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P7,Agree
+335,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P7,Agree
+336,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P7,Agree
+337, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P7,Extremely
+338, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P7,Extremely
+339, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P7,Extremely
+340, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P7,Extremely
+341, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P7,Moderately
+342, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P7,Moderately
+343, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P7,Moderately
+344, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P7,Moderately
+345, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P7,Moderately
+346, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P7,Neutral
+347,Please rate the clarity of each section,Main structure, Core set,P7,Very good
+348,Please rate the clarity of each section,Contact type, Core set,P7,Very good
+349,Please rate the clarity of each section,Physical activity, Core set,P7,Very good
+350,Please rate the clarity of each section,Ball situation, Core set,P7,Very good
+351,Please rate the clarity of each section,Session detail, Core set,P7,
+352,Please rate the clarity of each section,Contextual information, Core set,P7,Very good
+353,Please rate the clarity of each section,Main structure,Additional information,P7,Good
+354,Please rate the clarity of each section,Contact type,Additional information,P7,Good
+355,Please rate the clarity of each section,Physical activity,Additional information,P7,Fair
+356,Please rate the clarity of each section,Ball situation,Additional information,P7,Good
+357,Please rate the clarity of each section,Session detail,Additional information,P7,Good
+358,Please rate the clarity of each section,Contextual information,Additional information,P7,Good
+359,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P7,Easy
+360,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P7,Easy
+361,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P7,Easy
+362,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P7,Easy
+363,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P7,Neutral
+364,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P7,Neutral
+365,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P7,Neutral
+366,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P7,Neutral
+367,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P7,Neutral
+368,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P7,Difficult
+369,How difficult would implementing the system in research environment be?,Contact type, Core set,P7,Easy
+370,How difficult would implementing the system in research environment be?,Physical activity, Core set,P7,Easy
+371,How difficult would implementing the system in research environment be?,Ball situation, Core set,P7,Easy
+372,How difficult would implementing the system in research environment be?,Session detail, Core set,P7,Neutral
+373,How difficult would implementing the system in research environment be?,Contextual information, Core set,P7,Difficult
+374,How difficult would implementing the system in research environment be?,Contact type,Additional information,P7,Neutral
+375,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P7,Neutral
+376,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P7,Neutral
+377,How difficult would implementing the system in research environment be?,Session detail,Additional information,P7,Neutral
+378,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P7,Difficult
+379,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P8,Agree
+380,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P8,Agree
+381,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P8,
+382,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P8,
+383,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P8,Neither agree nor disagree
+384,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P8,
+385,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P8,
+386,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P8,
+387,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P8,
+388,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P8,
+389,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P8,
+390,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P8,
+391, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P8,Extremely
+392, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P8,Extremely
+393, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P8,Neutral
+394, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P8,Not at all
+395, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P8,
+396, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P8,
+397, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P8,
+398, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P8,Neutral
+399, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P8,Extremely
+400, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P8,Extremely
+401,Please rate the clarity of each section,Main structure, Core set,P8,Excellent
+402,Please rate the clarity of each section,Contact type, Core set,P8,Fair
+403,Please rate the clarity of each section,Physical activity, Core set,P8,Excellent
+404,Please rate the clarity of each section,Ball situation, Core set,P8,Good
+405,Please rate the clarity of each section,Session detail, Core set,P8,Excellent
+406,Please rate the clarity of each section,Contextual information, Core set,P8,
+407,Please rate the clarity of each section,Main structure,Additional information,P8,
+408,Please rate the clarity of each section,Contact type,Additional information,P8,Fair
+409,Please rate the clarity of each section,Physical activity,Additional information,P8,Good
+410,Please rate the clarity of each section,Ball situation,Additional information,P8,Poor
+411,Please rate the clarity of each section,Session detail,Additional information,P8,Very good
+412,Please rate the clarity of each section,Contextual information,Additional information,P8,Very good
+413,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P8,Very easy
+414,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P8,Very easy
+415,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P8,Easy
+416,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P8,Neutral
+417,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P8,
+418,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P8,Very easy
+419,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P8,Very easy
+420,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P8,Very easy
+421,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P8,Easy
+422,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P8,Easy
+423,How difficult would implementing the system in research environment be?,Contact type, Core set,P8,
+424,How difficult would implementing the system in research environment be?,Physical activity, Core set,P8,
+425,How difficult would implementing the system in research environment be?,Ball situation, Core set,P8,
+426,How difficult would implementing the system in research environment be?,Session detail, Core set,P8,
+427,How difficult would implementing the system in research environment be?,Contextual information, Core set,P8,
+428,How difficult would implementing the system in research environment be?,Contact type,Additional information,P8,
+429,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P8,
+430,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P8,
+431,How difficult would implementing the system in research environment be?,Session detail,Additional information,P8,
+432,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P8,
+433,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P9,Agree
+434,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P9,Strongly agree
+435,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P9,Strongly agree
+436,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P9,Agree
+437,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P9,Agree
+438,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P9,Agree
+439,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P9,Agree
+440,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P9,Strongly agree
+441,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P9,Strongly agree
+442,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P9,Agree
+443,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P9,Agree
+444,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P9,Agree
+445, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P9,Extremely
+446, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P9,Extremely
+447, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P9,Extremely
+448, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P9,Moderately
+449, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P9,Extremely
+450, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P9,Extremely
+451, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P9,Extremely
+452, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P9,Extremely
+453, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P9,Moderately
+454, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P9,Extremely
+455,Please rate the clarity of each section,Main structure, Core set,P9,Very good
+456,Please rate the clarity of each section,Contact type, Core set,P9,Very good
+457,Please rate the clarity of each section,Physical activity, Core set,P9,Good
+458,Please rate the clarity of each section,Ball situation, Core set,P9,Good
+459,Please rate the clarity of each section,Session detail, Core set,P9,Good
+460,Please rate the clarity of each section,Contextual information, Core set,P9,Very good
+461,Please rate the clarity of each section,Main structure,Additional information,P9,Very good
+462,Please rate the clarity of each section,Contact type,Additional information,P9,Very good
+463,Please rate the clarity of each section,Physical activity,Additional information,P9,Good
+464,Please rate the clarity of each section,Ball situation,Additional information,P9,Good
+465,Please rate the clarity of each section,Session detail,Additional information,P9,Good
+466,Please rate the clarity of each section,Contextual information,Additional information,P9,Very good
+467,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P9,Very easy
+468,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P9,Easy
+469,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P9,Neutral
+470,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P9,Neutral
+471,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P9,Easy
+472,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P9,Very easy
+473,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P9,Easy
+474,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P9,Neutral
+475,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P9,Neutral
+476,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P9,Easy
+477,How difficult would implementing the system in research environment be?,Contact type, Core set,P9,Very easy
+478,How difficult would implementing the system in research environment be?,Physical activity, Core set,P9,Very easy
+479,How difficult would implementing the system in research environment be?,Ball situation, Core set,P9,Easy
+480,How difficult would implementing the system in research environment be?,Session detail, Core set,P9,Easy
+481,How difficult would implementing the system in research environment be?,Contextual information, Core set,P9,Very easy
+482,How difficult would implementing the system in research environment be?,Contact type,Additional information,P9,Very easy
+483,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P9,Very easy
+484,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P9,Easy
+485,How difficult would implementing the system in research environment be?,Session detail,Additional information,P9,Easy
+486,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P9,Very easy
+487,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure, Core set,P10,Strongly agree
+488,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type, Core set,P10,Strongly agree
+489,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity, Core set,P10,Agree
+490,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation, Core set,P10,Strongly agree
+491,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail, Core set,P10,Agree
+492,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information, Core set,P10,Strongly agree
+493,Please rate how much you agree with the content and the organisation of the following sections of the system,Main structure,Additional information,P10,
+494,Please rate how much you agree with the content and the organisation of the following sections of the system,Contact type,Additional information,P10,
+495,Please rate how much you agree with the content and the organisation of the following sections of the system,Physical activity,Additional information,P10,
+496,Please rate how much you agree with the content and the organisation of the following sections of the system,Ball situation,Additional information,P10,
+497,Please rate how much you agree with the content and the organisation of the following sections of the system,Session detail,Additional information,P10,
+498,Please rate how much you agree with the content and the organisation of the following sections of the system,Contextual information,Additional information,P10,
+499, How important is including the following information when reporting injury mechanisms in football ? ,Contact type, Core set,P10,Extremely
+500, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity, Core set,P10,Moderately
+501, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation, Core set,P10,Moderately
+502, How important is including the following information when reporting injury mechanisms in football ? ,Session detail, Core set,P10,Extremely
+503, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information, Core set,P10,Moderately
+504, How important is including the following information when reporting injury mechanisms in football ? ,Contact type,Additional information,P10,
+505, How important is including the following information when reporting injury mechanisms in football ? ,Physical activity,Additional information,P10,
+506, How important is including the following information when reporting injury mechanisms in football ? ,Ball situation,Additional information,P10,
+507, How important is including the following information when reporting injury mechanisms in football ? ,Session detail,Additional information,P10,
+508, How important is including the following information when reporting injury mechanisms in football ? ,Contextual information,Additional information,P10,
+509,Please rate the clarity of each section,Main structure, Core set,P10,Excellent
+510,Please rate the clarity of each section,Contact type, Core set,P10,Excellent
+511,Please rate the clarity of each section,Physical activity, Core set,P10,Very good
+512,Please rate the clarity of each section,Ball situation, Core set,P10,Excellent
+513,Please rate the clarity of each section,Session detail, Core set,P10,Very good
+514,Please rate the clarity of each section,Contextual information, Core set,P10,Excellent
+515,Please rate the clarity of each section,Main structure,Additional information,P10,
+516,Please rate the clarity of each section,Contact type,Additional information,P10,
+517,Please rate the clarity of each section,Physical activity,Additional information,P10,
+518,Please rate the clarity of each section,Ball situation,Additional information,P10,
+519,Please rate the clarity of each section,Session detail,Additional information,P10,
+520,Please rate the clarity of each section,Contextual information,Additional information,P10,
+521,How difficult would it be to collect information on each section in football environment ?,Contact type, Core set,P10,Easy
+522,How difficult would it be to collect information on each section in football environment ?,Physical activity, Core set,P10,Easy
+523,How difficult would it be to collect information on each section in football environment ?,Ball situation, Core set,P10,Very easy
+524,How difficult would it be to collect information on each section in football environment ?,Session detail, Core set,P10,Very easy
+525,How difficult would it be to collect information on each section in football environment ?,Contextual information, Core set,P10,Very easy
+526,How difficult would it be to collect information on each section in football environment ?,Contact type,Additional information,P10,
+527,How difficult would it be to collect information on each section in football environment ?,Physical activity,Additional information,P10,
+528,How difficult would it be to collect information on each section in football environment ?,Ball situation,Additional information,P10,
+529,How difficult would it be to collect information on each section in football environment ?,Session detail,Additional information,P10,
+530,How difficult would it be to collect information on each section in football environment ?,Contextual information,Additional information,P10,
+531,How difficult would implementing the system in research environment be?,Contact type, Core set,P10,Easy
+532,How difficult would implementing the system in research environment be?,Physical activity, Core set,P10,Neutral
+533,How difficult would implementing the system in research environment be?,Ball situation, Core set,P10,Very easy
+534,How difficult would implementing the system in research environment be?,Session detail, Core set,P10,Very easy
+535,How difficult would implementing the system in research environment be?,Contextual information, Core set,P10,Very easy
+536,How difficult would implementing the system in research environment be?,Contact type,Additional information,P10,
+537,How difficult would implementing the system in research environment be?,Physical activity,Additional information,P10,
+538,How difficult would implementing the system in research environment be?,Ball situation,Additional information,P10,
+539,How difficult would implementing the system in research environment be?,Session detail,Additional information,P10,
+540,How difficult would implementing the system in research environment be?,Contextual information,Additional information,P10,
