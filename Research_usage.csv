@@ -1,0 +1,10 @@
+﻿,Very difficult,Difficult,Neutral,Easy,Very easy
+Contact type - Core set,0,0,0,0.55,0.45
+Physical activity - Core set,0,0,0.1,0.45,0.45
+Ball situation - Core set,0,0,0,0.64,0.36
+Session detail - Core set,0,0.1,0.18,0.36,0.36
+Contact type - Additional information,0,0,0.12,0.38,0.5
+Physical activity - Additional information,0,0,0.11,0.33,0.56
+Ball situation - Additional information,0,0,0.11,0.56,0.33
+Session detail - Additional information,0,0.11,0.11,0.45,0.33
+Contextual information - Additional information,0,0.11,0.11,0.33,0.45
